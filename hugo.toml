@@ -1,0 +1,4 @@
+baseURL = 'https://nelsonn.xyz/'
+languageCode = 'en-uk'
+title = "Nelson Ngai's webpage"
+theme = 'lugo'
