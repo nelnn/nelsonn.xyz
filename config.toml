@@ -1,5 +1,5 @@
 BASEURL = "https://nelsonn.xyz"
-theme = 'lugo'
+theme = 'nugo'
 languageCode = 'en-uk'
 
 [params]
