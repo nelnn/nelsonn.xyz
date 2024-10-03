@@ -1,6 +1,8 @@
 +++
 title = "Nelson Ngai's Webpage"
 date = 2024-09-29T16:48:52+01:00
+type = "_default"
+layout = "single"
 +++
 
 ## Introduction
@@ -31,7 +33,6 @@ I am Nelson Ngai and this is my webpage. I am using the [lugo](https://github.co
 
 ---
 
-I come across [Hugo](https://gohugo.io/) recently which is a nice application for personal webpages. I hope in the coming months I can share with you here a piece of myself with the internet.
-
+{{< listregpage >}}
 
 
