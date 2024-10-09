@@ -3,18 +3,17 @@
 {{- end }}
 {{ define "main" -}}
 {{ .Content }}
+<h2>Watched</h2>
 <ul>
-{{- range.Pages }}
+{{- range (.Pages.ByParam "year").Reverse }}
 <li>
+	{{ with .Params.year }}
+      {{ . }} &ndash;
+	{{end}}
 	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-	{{- if .Param "director" }}
 	{{ with .Params.director }}
       - {{ . }}
 	{{end}}
-	{{ with .Params.year }}
-      - {{ . }}
-	{{end}}
-	{{ end -}}
 </li>
 {{- end }}
 </ul>

@@ -6,6 +6,3 @@ layout = "movieList"
 +++
 
 
-## Watched
-
-

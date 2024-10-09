@@ -2,7 +2,7 @@
 title: "Gone Girl"
 date: 2024-10-05T18:09:53+01:00
 year: 2014
-tags: ["🎬movie"]
+tags: ["movie"]
 director: "David Fincher"
 ---
 

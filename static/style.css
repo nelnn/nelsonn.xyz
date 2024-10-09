@@ -95,3 +95,6 @@ footer {
   margin-right: auto;
   text-align: center;
 }
+
+#tag_movie:before { content: "🎬" ; }
+#tag_workout:before { content: "💪" ; }
