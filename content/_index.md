@@ -8,7 +8,7 @@ layout = "single"
 ## Introduction
 {{< img class="profile-img" src="/pix/me.webp" caption="Me." mouse="Pi-Pi and I in Canada.">}}
 
-I am Nelson Ngai and this is my webpage. I am using the [lugo](https://github.com/LukeSmithxyz/lugo) theme. That puppy is not mine.
+I am Nelson Ngai and this is my webpage. Thanks for stopping by. That puppy is not mine.
 
 ---
 {{< rawhtml >}}
@@ -32,7 +32,14 @@ I am Nelson Ngai and this is my webpage. I am using the [lugo](https://github.co
 {{< /rawhtml >}}
 
 ---
+## By Topic
+{{< tagcloud label="index">}}
 
-{{< listregpage >}}
+---
+## All Posts
+
+{{< postlist >}}
+
+---
 
 
