@@ -1,0 +1,21 @@
+{{ define "title" -}}
+{{ .Title | title }}
+{{- end }}
+{{ define "main" -}}
+{{ .Content }}
+<ul>
+{{- range.Pages }}
+<li>
+	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	{{- if .Param "director" }}
+	{{ with .Params.director }}
+      - {{ . }}
+	{{end}}
+	{{ with .Params.year }}
+      - {{ . }}
+	{{end}}
+	{{ end -}}
+</li>
+{{- end }}
+</ul>
+{{- end }}
