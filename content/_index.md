@@ -32,12 +32,8 @@ I am Nelson Ngai and this is my webpage. Thanks for stopping by. That puppy is n
 {{< /rawhtml >}}
 
 ---
-## By Topic
-{{< rawhtml >}}
-    <ul id="tagcloud">
-      <li><a href="/movie">🎬Movie List</a></li>
-    </ul>
-{{< /rawhtml >}}
+## By Category
+{{< tagcloud >}}
 
 ---
 ## All Posts
