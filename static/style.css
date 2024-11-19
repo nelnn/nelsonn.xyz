@@ -35,6 +35,25 @@ footer {
 	clear: both ;
 }
 
+pre {
+    background: #111222;
+    border: 1px solid lime;
+    border-radius: 20px;
+    padding: 1em;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    max-width: 600px;
+    margin: auto;
+}
+
+strong {
+  color: #27B908;
+}
+
+em {
+  color: #487EAE;
+}
+
 /* For TAGLIST.HTML */
 .taglist {
 	text-align: center ;

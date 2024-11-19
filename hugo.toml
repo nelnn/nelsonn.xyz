@@ -1,4 +1,30 @@
-baseURL = 'https://nelsonn.xyz/'
-languageCode = 'en-uk'
-title = "Nelson Ngai's webpage"
-theme = 'nugo'
+baseurl = "https://nelsonn.xyz"
+theme = "nugo"
+languagecode = "en-uk"
+
+[params]
+  relatedtext = "related"
+  favicon = "/favicon.ico"
+  authorsinlist = true
+  nextprev = true
+  taglist = true
+  showrss = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[security]
+  enableinlineshortcodes = true
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+  [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true

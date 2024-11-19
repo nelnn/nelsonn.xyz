@@ -8,7 +8,7 @@ layout = "single"
 ## Introduction
 {{< img class="profile-img" src="/pix/me.webp" caption="Me." mouse="Pi-Pi and I in Canada.">}}
 
-I am Nelson Ngai and this is my webpage. Thanks for stopping by. That puppy is not mine.
+Hello I am Nelson and that's not my puppy. This is a place where I share a bit of myself with the internet. I use [hugo](https://gohugo.io/) to build this site. You don't need javascript :).
 
 ---
 {{< rawhtml >}}
