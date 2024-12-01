@@ -77,10 +77,10 @@ em {
 }
 
 /* Class */
-.profile-img {
+.img {
   text-align: center ;
   font-style: italic;
-  font-weight: bold;
+  /* font-weight: bold; */
   color: #ccc;
 }
 
@@ -115,6 +115,7 @@ em {
   text-align: center;
 }
 
+#tag_leisure:before { content: "🏔️" ; }
 #tag_movie:before { content: "🎬" ; }
 #tag_workout:before { content: "💪" ; }
 #tag_linux:before { content: "🐧" ; }
