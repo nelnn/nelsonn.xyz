@@ -2,7 +2,6 @@
 title: 'My Workout Split'
 date: 2024-10-02T19:59:34+01:00
 tags: ['workout']
-mathjax: true
 ---
 
 I don't really split my workout across the week by push, pull, leg, or upper and lower body split. First of all I should state what works for me might not be the best for you, and you will need to experiment to find out. Second of all my goal is not hypertrophy but strength. **Gains are only by-products.**
@@ -24,6 +23,3 @@ Currently my body weight is around 70kg. My PR for bench is 100kg x 3, squat 130
 
 For calisthenics, I can do 5 muscle-ups with decent form (no kipping), back lever for 15-20 seconds, front lever straddle for 8-10 seconds, 1 handstand push-up, 5-10 seconds handstand hold, 2-3 ring muscle-ups.
 
-
-This is inline math: \( \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} \)
- 1\]
