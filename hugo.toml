@@ -16,15 +16,14 @@ languagecode = "en-uk"
 [security]
   enableinlineshortcodes = true
 
-
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.extensions]
-#       [markup.goldmark.extensions.passthrough]
-#         enable = true
-#         [markup.goldmark.extensions.passthrough.delimiters]
-#           block = [['\[', '\]'], ['$$', '$$']]
-#           inline = [['\(', '\)']]
-#   [markup.goldmark.parser]
-#       [markup.goldmark.parser.attribute]
-#         block = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+  [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
