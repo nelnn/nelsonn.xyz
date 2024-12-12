@@ -1,4 +1,5 @@
 body {
+    text-align: justify;
 	font-family: sans-serif ;
 	background: #110000 ;
 	color: #ccc ;
@@ -35,14 +36,14 @@ footer {
 	clear: both ;
 }
 
-pre {
+pre, .math {
     background: #111222;
     border: 1px solid lime;
     border-radius: 20px;
     padding: 1em;
-    white-space: pre-wrap;
+    /* white-space: pre-wrap; */
     overflow-wrap: break-word;
-    max-width: 600px;
+    /* max-width: 600px; */
     margin: auto;
 }
 
@@ -115,7 +116,6 @@ em {
   text-align: center;
 }
 
-#tag_leisure:before { content: "🏔️" ; }
-#tag_movie:before { content: "🎬" ; }
-#tag_workout:before { content: "💪" ; }
-#tag_linux:before { content: "🐧" ; }
+#tag_machine-learning:before { content: "🧠" ; }
+#tag_hobby:before { content: "🏔️" ; }
+#tag_code:before { content: "💻" ; }
