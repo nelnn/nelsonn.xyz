@@ -1,7 +1,7 @@
 ---
 title: "rsync"
 date: 2024-10-09T21:48:36+01:00
-tags: ["linux"]
+tags: ["code"]
 ---
 
 If you don't know about rsync, you should get to know it now. Rsync is a Linux utility that allows you to backup files and directories to either a remote or local server. You can even stop syncing and be able to resume without starting over because rsync can pick up where if left off. 

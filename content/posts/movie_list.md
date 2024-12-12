@@ -1,7 +1,7 @@
 ---
 title: "Movie List"
 date: 2024-10-12T13:23:21+01:00
-tags: ["movie"]
+tags: ["hobby"]
 ---
 
 I use ChatGPT to format the list below so I don't need to manually look for year, directors and actors and type them out. Obviously I have watched a lot more and I will slowly add them to the list.

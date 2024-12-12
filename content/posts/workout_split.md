@@ -1,7 +1,7 @@
 ---
 title: 'My Workout Split'
 date: 2024-10-02T19:59:34+01:00
-tags: ['workout']
+tags: ['hobby']
 ---
 
 I don't really split my workout across the week by push, pull, leg, or upper and lower body split. First of all I should state what works for me might not be the best for you, and you will need to experiment to find out. Second of all my goal is not hypertrophy but strength. **Gains are only by-products.**

@@ -1,7 +1,7 @@
 ---
 title: "Tryfan"
 date: 2024-11-19T22:01:48Z
-tags: ["leisure"]
+tags: ["hobby"]
 ---
 
 I went to visit Jake up North the last weekend and he decided we should climb Tryfan. It took us two hours of driving to get there in the Saturday morning and arrived at 10-ish. The weather wasn't the nicest but the hike shouldn't be too hard right? After all I bought a pair of Goretex Boots which cost £100 and felt prepared. And boy I was wrong.
