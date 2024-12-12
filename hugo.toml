@@ -1,4 +1,4 @@
-baseurl = "https://nelsonn.xyz"
+baseURL = "https://nelsonn.xyz"
 theme = "nugo"
 languagecode = "en-uk"
 
@@ -22,7 +22,7 @@ languagecode = "en-uk"
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
+          block = [['$$', '$$']]
           inline = [['\(', '\)']]
   [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
