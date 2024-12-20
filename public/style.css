@@ -1,0 +1,121 @@
+body {
+    text-align: justify;
+	font-family: sans-serif ;
+	background: #110000 ;
+	color: #ccc ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
+img {
+	max-width: 100% ;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center ;
+}
+
+h1 {
+  color: chocolate;
+}
+
+h2 {
+  color: sandybrown;
+}
+
+a {
+  color: #33bbff;
+  text-decoration: none;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+pre, .math {
+    background: #111222;
+    border: 1px solid lime;
+    border-radius: 20px;
+    padding: 1em;
+    /* white-space: pre-wrap; */
+    overflow-wrap: break-word;
+    /* max-width: 600px; */
+    margin: auto;
+}
+
+strong {
+  color: #27B908;
+}
+
+em {
+  color: #487EAE;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}
+
+/* Class */
+.img {
+  text-align: center ;
+  font-style: italic;
+  /* font-weight: bold; */
+  color: #ccc;
+}
+
+#icon-menu {
+  list-style: none;
+  text-align: center;
+  font-size: 48pt;
+  margin: 0;
+}
+
+#icon-menu li {
+  display: inline;
+  padding: .1em;
+  margin: .1em;
+}
+
+#tagcloud {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+#tagcloud li {
+  display: inline-block;
+}
+
+.poster {
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#tag_machine-learning:before { content: "🧠" ; }
+#tag_hobby:before { content: "🏔️" ; }
+#tag_code:before { content: "💻" ; }
