@@ -15,7 +15,7 @@ Hello I am Nelson and that's not my puppy. This is a place where I share a bit o
     <ul id="icon-menu">
       <li>
         <a href="https://github.com/nelnn">
-          <img src="/nelsonn.xyz/pix/github.png" title="GitHub" alt="GitHub">
+          <img src="/pix/github.png" title="GitHub" alt="GitHub">
         </a>
       </li>
       <li>
