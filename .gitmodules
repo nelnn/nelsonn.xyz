@@ -1,3 +1,4 @@
 [submodule "themes/nugo"]
 	path = themes/nugo
 	url = https://github.com/nelnn/nugo
+    branch = github-page
