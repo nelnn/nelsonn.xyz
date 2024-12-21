@@ -1,4 +1,4 @@
-baseURL = "https://nelnn.github.io/nelsonn.xyz/"
+baseURL = "/nelsonn.xyz/"
 theme = "nugo"
 languagecode = "en-uk"
 
