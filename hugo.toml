@@ -1,6 +1,7 @@
 baseURL = "/nelsonn.xyz/"
 theme = "nugo"
 languagecode = "en-uk"
+canonifyURLs = true
 
 [params]
   relatedtext = "related"
