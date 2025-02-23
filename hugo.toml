@@ -1,4 +1,4 @@
-baseURL = "/nelsonn.xyz/"
+baseURL = "nelsonn.xyz"
 theme = "nugo"
 languagecode = "en-uk"
 canonifyURLs = true
